@@ -44,8 +44,7 @@ export const List = styled.ul`
   }
   
   @media ${props => props.theme.breakpoints.sm}{
-    display: flex;
-    flex-direction: column;
+    grid-template-columns: repeat(2, 1fr);
     margin: 32px 0;
   }
 `

@@ -9,10 +9,10 @@ export const FooterWrapper = styled.section`
 
 
   @media ${props => props.theme.breakpoints.sm} {
-    padding: 0 16px 48px;
+    padding: 0 16px 48px; 
     width: calc(100vw - 32px);
-  }
-`
+  } 
+` 
 
 export const LinkItem = styled.a`
 	font-size: 18px;
