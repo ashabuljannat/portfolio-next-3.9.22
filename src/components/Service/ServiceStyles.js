@@ -19,7 +19,7 @@ row-gap: 3rem;
   flex-direction: column;
   padding: 2rem;
   padding-bottom: 0; 
-}
+} 
 
 `
 export const BlogCard = styled.div`

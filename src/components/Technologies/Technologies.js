@@ -43,7 +43,7 @@ const Technologies = () => (
       <ListItem>
         <picture>
           <FaServer size="2rem" />
-        </picture>
+        </picture> 
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>

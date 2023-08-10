@@ -1,11 +1,11 @@
 import React from "react";
 import {
   Section,
-  SectionDivider,
+  SectionDivider, 
   SectionTitle,
 } from "../../styles/GlobalComponents";
 
-const Services = () => (
+const Services = () => ( 
   <>
     <Section nopadding id="projects">
       <SectionTitle main>My Services</SectionTitle>

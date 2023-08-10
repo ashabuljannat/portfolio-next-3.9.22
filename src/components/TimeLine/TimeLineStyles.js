@@ -65,7 +65,7 @@ export const CarouselItem = styled.div`
 `
 
 export const CarouselItemTitle = styled.h4`
-  font-weight: bold;
+  font-weight: bold; 
   font-size: 24px;
   line-height: 32px;
   letter-spacing: 0.02em;

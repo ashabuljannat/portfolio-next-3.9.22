@@ -24,7 +24,7 @@ const Timeline = ({ EduData }) => {
 
   const scroll = (node, left) => {
     return node.scrollTo({ left, behavior: "smooth" });
-  };
+  }; 
 
   const handleClick = (e, i) => {
     e.preventDefault();
@@ -70,7 +70,7 @@ const Timeline = ({ EduData }) => {
       <SectionText>{EduData.text}</SectionText>
       <CarouselContainer
         ref={carouselRef}
-        onScroll={handleScroll}
+        onScroll={handleScroll} 
         style={{ marginLeft: "20px" }}
       >
         <>

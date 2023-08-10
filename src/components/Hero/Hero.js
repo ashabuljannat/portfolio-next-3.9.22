@@ -15,7 +15,7 @@ const Hero = (props) => (
           <p>
             Welcome To <br />
             My Personal Portfolio
-          </p>
+          </p> 
         </SectionTitle>
 
         <SectionText>
